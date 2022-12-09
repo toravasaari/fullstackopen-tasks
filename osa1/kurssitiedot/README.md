@@ -1,6 +1,6 @@
-# Osa 1 tehtävät 1-2
+# Osa 1 tehtävät 1-5
 
-Kansio sisältää ratkaisut Osan 1 tehtäviin 1 ja 2; muutokset tehtävien välillä on eroteltu erillisillä commiteilla.
+Kansio sisältää ratkaisut Osan 1a tehtäviin 1 ja 2 ja Osan 1b tehtäviin 3-5; muutokset tehtävien välillä on eroteltu erillisillä commiteilla.
 
 
 ----
